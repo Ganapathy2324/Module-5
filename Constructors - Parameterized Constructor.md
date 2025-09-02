@@ -20,7 +20,7 @@ To write a Python code to create a class for a person with a parameterized const
 
 ```
 # Reg.No-212223060064
-# Name-Ganapathy SHriram V B
+# Name-Ganapathy Shriram V B
 
 class Person:
     def __init__(self, name, uid):
